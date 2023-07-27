@@ -204,3 +204,4 @@ used header token = jwt token
 </body>
 
 </html>
+<?php /**PATH C:\xamppeighttwo\htdocs\laravel\ms\Assignment_module_21t\resources\views/welcome.blade.php ENDPATH**/ ?>
